@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Im+Jorge)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Im+Jorge;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 - 👀 I’m interested in ... dev web
 - 🌱 I’m currently learning ... ReactJS
