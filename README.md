@@ -1,12 +1,12 @@
-  <div align="center">
+  <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Im+Jorge;Welcome+to+my+GitHub+Profile" height="150"/>
-  </div>
+  </p>
 
 - ✨ Creating bugs since ... 2023
 - 👀 I’m interested in ... dev web
 - 🌱 I’m currently learning ... ReactJS
 - 📫 How to reach me ... jorge.robles93@hotmail.com
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 <div align="left">
