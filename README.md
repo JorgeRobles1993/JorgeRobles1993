@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Im+Jorge;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
-
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Im+Jorge;Welcome+to+my+GitHub+Profile" height="250" alt="html5 logo"  />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Im+Jorge;Welcome+to+my+GitHub+Profile" height="250"/>
 
 - ✨ Creating bugs since ... 2023
 - 👀 I’m interested in ... dev web
