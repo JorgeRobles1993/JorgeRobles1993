@@ -1,7 +1,5 @@
-  <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Im+Jorge;Welcome+to+my+GitHub+Profile" height="150"/>
-  </p>
-
+  
 - ✨ Creating bugs since ... 2023
 - 👀 I’m interested in ... dev web
 - 🌱 I’m currently learning ... ReactJS
