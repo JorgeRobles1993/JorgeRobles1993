@@ -38,8 +38,9 @@
 
 ###
 
-<div width="100">
+<div>
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Chrome's Dino">
+<img width="100"/>
 </div>
 
 
