@@ -6,7 +6,7 @@
 - 👀 I’m interested in ... dev web
 - 🌱 I’m currently learning ... ReactJS
 - 📫 How to reach me ... jorge.robles93@hotmail.com
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 <div align="left">
