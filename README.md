@@ -3,8 +3,6 @@
 - 👀 I’m interested in ... dev web
 - 🌱 I’m currently learning ... ReactJS
 - 📫 How to reach me ... jorge.robles93@hotmail.com
-<h1 align="left">Hey 👋 What's up?</h1>
-
 <h2 align="left">I code with</h2>
 
 ###
