@@ -37,8 +37,9 @@
 </div>
 
 ###
+<img src="[http://example.com/dancing-cat.gif](https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F9mtznxfpdeuq48ed1el8.gif)" alt="A cat doing a funky dance">
 
-https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F9mtznxfpdeuq48ed1el8.gif
+
 
 ###
 <!---
