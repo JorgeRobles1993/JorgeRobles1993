@@ -4,7 +4,7 @@
 
 <h1 align="center">✨ Creating bugs since 2023 ✨</h1>
 
-<p align="center">
+<p align="left">
   👀 I’m interested in dev web <br>
   🌱 I’m currently learning ReactJS <br>
   📫 How to reach me: <a href="mailto:jorge.robles93@hotmail.com">jorge.robles93@hotmail.com</a>
