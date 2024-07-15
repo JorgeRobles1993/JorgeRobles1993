@@ -5,17 +5,9 @@
 <h1 align="center">✨ Creating bugs since 2023 ✨</h1>
 
 <p align="center">
-  <a href="mailto:jorge.robles93@hotmail.com">📫 How to reach me ... jorge.robles93@hotmail.com</a>
-</p>
-
-<h2 align="center">I’m interested in ...</h2>
-<p align="center">
-  Dev web
-</p>
-
-<h2 align="center">I’m currently learning ...</h2>
-<p align="center">
-  ReactJS
+  👀 I’m interested in dev web <br>
+  🌱 I’m currently learning ReactJS <br>
+  📫 How to reach me: <a href="mailto:jorge.robles93@hotmail.com">jorge.robles93@hotmail.com</a>
 </p>
 
 <h2 align="center">I code with</h2>
