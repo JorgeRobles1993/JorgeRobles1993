@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Jorge;Welcome+to+my+GitHub+Profile" height="50"/>
+<div align="center" style="font-size: 24px;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Jorge;Welcome+to+my+GitHub+Profile" height="70"/>
 </div>
+
 
 <h1 align="center">✨ Creating bugs since 2023 ✨</h1>
 
